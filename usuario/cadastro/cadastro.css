@@ -1,0 +1,10 @@
+.elemento{
+    width: 100%;
+    height: 38px;
+    margin-bottom: 3%;
+}
+
+.selecionar{
+    background-color: #495057 !important    ; 
+    color: #ffffff !important;
+}
